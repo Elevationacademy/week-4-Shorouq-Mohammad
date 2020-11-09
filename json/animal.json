@@ -1,0 +1,16 @@
+{
+    "name":"cow",
+    "weight": 300,
+    "place":"switzerland",
+    "endangered": false,
+    "foods":[
+        {"grass": "30%"},
+        {"clover": "60%"},
+        {"water": "10%"}
+    ],
+    "animals": [
+        "human",
+        "lions"
+    ],
+    "delicious": 10
+}
